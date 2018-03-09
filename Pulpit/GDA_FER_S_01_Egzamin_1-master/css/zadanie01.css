@@ -1,0 +1,11 @@
+.menu {
+    float: right;
+}
+.menu li {
+    display: inline-block;
+}
+.menu a {
+    text-decoration: none;
+    color: #B01E57;
+    ont-family: 'Open Sans', sans-serif;
+}
